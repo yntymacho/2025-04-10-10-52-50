@@ -1,0 +1,10 @@
+/.roo
+/adaptive_traffic_light_ml.md
+/befor_adaptive.xml
+/dqn_training.log
+/plot2
+/run.bat
+/simulate_gui.py
+/test_plots.py
+/traffic_light_rl.py
+/__pycache__

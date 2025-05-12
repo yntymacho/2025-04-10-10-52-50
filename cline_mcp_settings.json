@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "github.com/alexander-zuev/supabase-mcp-server": {
+      "command": "C:\\Users\\yntym\\.local\\bin\\supabase-mcp-server.exe",
+      "env": {
+        "QUERY_API_KEY": "your-api-key-from-thequery.dev",
+        "SUPABASE_PROJECT_REF": "your-project-ref",
+        "SUPABASE_DB_PASSWORD": "your-db-password",
+        "SUPABASE_REGION": "us-east-1",
+        "SUPABASE_ACCESS_TOKEN": "your-access-token",
+        "SUPABASE_SERVICE_ROLE_KEY": "your-service-role-key"
+      }
+    },
+    "context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp@latest"]
+    }
+  }
+}
